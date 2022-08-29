@@ -1,0 +1,35 @@
+
+
+var config = {
+
+    texts: [
+        "Hey",      
+        "beloved cutie",  
+        "today is your birthday",
+        "this is us together",
+        "2nd Birthday ",
+        "There is never a day that I will not think of you.",
+        "I am captivated by your Love❤️",
+        "and I am thankful you",
+        "chose me to be by your side.",
+        "I Love❤️ you and ",
+        "I hope you have a wonderful birthday.😘",
+        "My Love❤️",
+        "please let me be the",
+        "one to put a birthday",
+        "wish in your heart💖…",
+        "ask me what the wish is",
+        "that you will never",
+        "leave my side ever.",
+        "Now, hear my own ",
+        "birthday wish for you",
+        "my Love❤️ for you",
+        "will keep shining like",
+        "the brightness of the sun,",
+        " 🎂💝Happy Birthday💝🎂",
+        "Love From",
+        "Gariox~~",
+    ],
+    wish: "Happy Birthday Payal My Love ❤️",  
+    time: "2022-08-29 0:0:0", 
+};
